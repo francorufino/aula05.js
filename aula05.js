@@ -5,3 +5,8 @@ console.log(nome);
 console.log(nome);
 console.log(nome);
 mostrarNome("DRE");
+
+
+function teste() {
+
+}
