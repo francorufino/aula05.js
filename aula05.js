@@ -1,7 +1,13 @@
 function mostrarNome(nome) {
     return nome;
 }
-console.log(nome);
-console.log(nome);
-console.log(nome);
+
 mostrarNome("DRE");
+
+
+
+function sum(n1, n2) {
+    return n1 + n2;
+}
+
+sum(2, 3);
