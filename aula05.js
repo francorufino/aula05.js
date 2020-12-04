@@ -23,3 +23,13 @@ function summm(n1, n2) {
 }
 
 sum(2, 3);
+
+console.log(nome);
+console.log(nome);
+console.log(nome);
+mostrarNome("DRE");
+
+
+function teste() {
+
+}
